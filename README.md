@@ -1,5 +1,7 @@
 # react-github-page
 
+https://akiyoshi-takazwa.github.io/react-github-page/
+
 ## purpose
 
 github pageを用いた公開 の練習
